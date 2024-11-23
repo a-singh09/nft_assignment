@@ -1,0 +1,6 @@
+[submodule "nft_contracts"]
+	path = nft_contracts
+	url = https://github.com/a-singh09/nft_contracts.git
+[submodule "nft_frontend"]
+	path = nft_frontend
+	url = https://github.com/a-singh09/nft_frontend.git
